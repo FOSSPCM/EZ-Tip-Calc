@@ -7,7 +7,7 @@ The program expects whole numbers.
 
 The purpose behind this is that I wanted to learn a graphical toolkit, and I figured a resturaunt tip calculator would be an easy-enough thing to do, but I failed.
 
-[Demo Video of My Shame](http://youtube.link.goes.here)
+[Demo Video of My Shame](https://youtu.be/ZvgBurbiq-w)
 
 # Development Environment
 
